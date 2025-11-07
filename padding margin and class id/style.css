@@ -1,0 +1,18 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+}
+.banner{
+    background-image: url('https://preview.colorlib.com/theme/farmie/img/bg-img/8.jpg.webp');
+    padding: 50px;
+    margin: 50px;
+    background-position: center;
+    text-align: center;
+    color: white;
+}
+a{
+    background-color: #77b122;
+    padding: 5px;
+}
+#banner2{
+    background-image: url('https://preview.colorlib.com/theme/farmie/img/bg-img/9.jpg.webp');
+}
