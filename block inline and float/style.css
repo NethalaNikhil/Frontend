@@ -1,0 +1,16 @@
+.container1{
+    float: left;
+}
+.box{
+    float: left;
+    padding: 10px;
+}
+#box1{
+    padding-top: 60px;
+}
+#containers{
+    padding: 32px;
+}
+br{
+    clear: left;
+}
