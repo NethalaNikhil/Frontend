@@ -1,0 +1,38 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+li{
+        list-style: none;
+}
+.nav1 li{
+    float: left;
+    padding: 0px 5px;
+}
+.nav2 li{
+    float: right;
+    padding: 0px 5px;
+}
+#container1{
+    background-color: rgb(89, 145, 104);
+    color: white;
+    overflow: hidden;
+    padding: 0px 100px;
+    padding-bottom: 10px;
+    font-size: 14px;
+}
+.nav3 li{
+    float: right;
+    padding: 0px 20px;
+    padding-top: 20px;
+    font-weight: bolder;
+    
+}
+.insideContainer2{
+    float: left;
+}
+#container2{
+    padding: 0px 100px;
+}
+
+
